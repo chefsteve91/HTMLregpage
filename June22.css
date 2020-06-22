@@ -13,11 +13,11 @@ button {
 
 nav {
     width: 100vw;
-    float: right;
+    float: inline-end;
     padding-top 10px;
     padding-bottom 10px;
     background-color: darkgrey;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }    
 
 nav ul li {
@@ -37,4 +37,8 @@ nav ul li {
     Padding-top: 50px;
     border-radius: .4em;
 
+}
+
+.navbutton {
+    vertical-align: 10px;
 }
