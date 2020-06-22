@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+}
+
+input {
+    box-shadow: 2px 2px 2px darkgray;
+}
+
+button {
+    box-shadow: 2px 2px 2px darkgrey;
+    color: cornflowerblue;
+}
+
+nav {
+    width: 100vw;
+    float: right;
+    padding-top 10px;
+    padding-bottom 10px;
+    background-color: darkgrey;
+    margin-bottom: 10px;
+}    
+
+nav ul li {
+    display: inline-block;
+    text-align: center;
+    padding-left: 10 px;
+}    
+
+#contact-form {
+    margin: auto;
+    margin-top: 10px;
+    width: 30vw;
+    background-color: white;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    Padding-top: 50px;
+    border-radius: .4em;
+
+}
